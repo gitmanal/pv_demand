@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ba0d6ca8bcc64fd2ac809f65bc0678f8/artifacts
+end_time: 1737067158639
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ba0d6ca8bcc64fd2ac809f65bc0678f8
+run_name: bold-kite-809
+run_uuid: ba0d6ca8bcc64fd2ac809f65bc0678f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158631
+status: 3
+tags: []
+user_id: ibrahim-lahlou

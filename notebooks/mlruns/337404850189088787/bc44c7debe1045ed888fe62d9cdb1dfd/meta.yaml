@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/bc44c7debe1045ed888fe62d9cdb1dfd/artifacts
+end_time: 1737067165897
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: bc44c7debe1045ed888fe62d9cdb1dfd
+run_name: angry-bat-276
+run_uuid: bc44c7debe1045ed888fe62d9cdb1dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165884
+status: 3
+tags: []
+user_id: ibrahim-lahlou

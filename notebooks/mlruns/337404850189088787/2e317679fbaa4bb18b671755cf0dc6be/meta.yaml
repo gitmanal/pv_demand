@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2e317679fbaa4bb18b671755cf0dc6be/artifacts
+end_time: 1737067153831
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2e317679fbaa4bb18b671755cf0dc6be
+run_name: handsome-grub-847
+run_uuid: 2e317679fbaa4bb18b671755cf0dc6be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153826
+status: 3
+tags: []
+user_id: ibrahim-lahlou

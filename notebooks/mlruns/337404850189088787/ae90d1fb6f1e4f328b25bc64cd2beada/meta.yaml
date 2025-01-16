@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ae90d1fb6f1e4f328b25bc64cd2beada/artifacts
+end_time: 1737067158161
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ae90d1fb6f1e4f328b25bc64cd2beada
+run_name: blushing-chimp-678
+run_uuid: ae90d1fb6f1e4f328b25bc64cd2beada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158152
+status: 3
+tags: []
+user_id: ibrahim-lahlou

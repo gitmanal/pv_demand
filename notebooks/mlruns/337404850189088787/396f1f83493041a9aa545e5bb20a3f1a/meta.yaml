@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/396f1f83493041a9aa545e5bb20a3f1a/artifacts
+end_time: 1737067173353
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 396f1f83493041a9aa545e5bb20a3f1a
+run_name: gregarious-ant-817
+run_uuid: 396f1f83493041a9aa545e5bb20a3f1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067173338
+status: 3
+tags: []
+user_id: ibrahim-lahlou

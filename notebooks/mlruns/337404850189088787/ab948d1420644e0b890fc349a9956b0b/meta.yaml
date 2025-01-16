@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ab948d1420644e0b890fc349a9956b0b/artifacts
+end_time: 1737067186995
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ab948d1420644e0b890fc349a9956b0b
+run_name: merciful-shrimp-413
+run_uuid: ab948d1420644e0b890fc349a9956b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067186974
+status: 3
+tags: []
+user_id: ibrahim-lahlou

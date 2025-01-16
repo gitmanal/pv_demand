@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/4bbdf103fb984b61a3a931b4c6e79b81/artifacts
+end_time: 1737067161090
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 4bbdf103fb984b61a3a931b4c6e79b81
+run_name: nebulous-mole-562
+run_uuid: 4bbdf103fb984b61a3a931b4c6e79b81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067161080
+status: 3
+tags: []
+user_id: ibrahim-lahlou

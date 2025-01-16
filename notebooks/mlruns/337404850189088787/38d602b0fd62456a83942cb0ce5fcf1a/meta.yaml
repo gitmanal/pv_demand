@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/38d602b0fd62456a83942cb0ce5fcf1a/artifacts
+end_time: 1737067160799
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 38d602b0fd62456a83942cb0ce5fcf1a
+run_name: thundering-goat-687
+run_uuid: 38d602b0fd62456a83942cb0ce5fcf1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067160790
+status: 3
+tags: []
+user_id: ibrahim-lahlou

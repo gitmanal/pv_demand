@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/367c08c0b94946bca6ab48075a0b5bb4/artifacts
+end_time: 1737067201596
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 367c08c0b94946bca6ab48075a0b5bb4
+run_name: adorable-foal-65
+run_uuid: 367c08c0b94946bca6ab48075a0b5bb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067201574
+status: 3
+tags: []
+user_id: ibrahim-lahlou

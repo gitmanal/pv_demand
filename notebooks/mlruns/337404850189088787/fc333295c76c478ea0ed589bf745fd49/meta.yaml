@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/fc333295c76c478ea0ed589bf745fd49/artifacts
+end_time: 1737067158540
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: fc333295c76c478ea0ed589bf745fd49
+run_name: victorious-bug-856
+run_uuid: fc333295c76c478ea0ed589bf745fd49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158531
+status: 3
+tags: []
+user_id: ibrahim-lahlou

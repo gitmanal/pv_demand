@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/3c3c89c57cf7449dae4e1b6cc53f30bd/artifacts
+end_time: 1737067152088
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 3c3c89c57cf7449dae4e1b6cc53f30bd
+run_name: fearless-owl-967
+run_uuid: 3c3c89c57cf7449dae4e1b6cc53f30bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152085
+status: 3
+tags: []
+user_id: ibrahim-lahlou

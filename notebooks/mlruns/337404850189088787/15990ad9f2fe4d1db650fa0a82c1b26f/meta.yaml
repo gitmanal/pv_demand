@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/15990ad9f2fe4d1db650fa0a82c1b26f/artifacts
+end_time: 1737067185738
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 15990ad9f2fe4d1db650fa0a82c1b26f
+run_name: marvelous-cat-807
+run_uuid: 15990ad9f2fe4d1db650fa0a82c1b26f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067185719
+status: 3
+tags: []
+user_id: ibrahim-lahlou

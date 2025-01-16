@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2850f40f6e9a4938b345275889c8292e/artifacts
+end_time: 1737067204803
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2850f40f6e9a4938b345275889c8292e
+run_name: masked-hog-222
+run_uuid: 2850f40f6e9a4938b345275889c8292e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067204779
+status: 3
+tags: []
+user_id: ibrahim-lahlou

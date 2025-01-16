@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/f2883b0109234ce490588ba3c6592cfa/artifacts
+end_time: 1737067174015
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: f2883b0109234ce490588ba3c6592cfa
+run_name: enchanting-hare-871
+run_uuid: f2883b0109234ce490588ba3c6592cfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067173996
+status: 3
+tags: []
+user_id: ibrahim-lahlou

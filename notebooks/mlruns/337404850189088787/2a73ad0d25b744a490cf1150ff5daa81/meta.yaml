@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2a73ad0d25b744a490cf1150ff5daa81/artifacts
+end_time: 1737067179904
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2a73ad0d25b744a490cf1150ff5daa81
+run_name: powerful-fowl-149
+run_uuid: 2a73ad0d25b744a490cf1150ff5daa81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067179885
+status: 3
+tags: []
+user_id: ibrahim-lahlou

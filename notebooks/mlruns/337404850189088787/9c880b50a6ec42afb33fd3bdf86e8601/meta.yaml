@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9c880b50a6ec42afb33fd3bdf86e8601/artifacts
+end_time: 1737067153958
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9c880b50a6ec42afb33fd3bdf86e8601
+run_name: indecisive-fly-415
+run_uuid: 9c880b50a6ec42afb33fd3bdf86e8601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153952
+status: 3
+tags: []
+user_id: ibrahim-lahlou

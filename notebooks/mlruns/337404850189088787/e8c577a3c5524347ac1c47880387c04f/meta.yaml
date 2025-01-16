@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e8c577a3c5524347ac1c47880387c04f/artifacts
+end_time: 1737067198479
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e8c577a3c5524347ac1c47880387c04f
+run_name: magnificent-stag-279
+run_uuid: e8c577a3c5524347ac1c47880387c04f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067198457
+status: 3
+tags: []
+user_id: ibrahim-lahlou

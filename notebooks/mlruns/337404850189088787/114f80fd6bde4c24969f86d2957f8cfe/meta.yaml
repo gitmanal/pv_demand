@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/114f80fd6bde4c24969f86d2957f8cfe/artifacts
+end_time: 1737067151972
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 114f80fd6bde4c24969f86d2957f8cfe
+run_name: ambitious-steed-977
+run_uuid: 114f80fd6bde4c24969f86d2957f8cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067151969
+status: 3
+tags: []
+user_id: ibrahim-lahlou

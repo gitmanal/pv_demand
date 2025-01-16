@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/11a97aed091f4e1ca1236dcf3680eacd/artifacts
+end_time: 1737067189821
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 11a97aed091f4e1ca1236dcf3680eacd
+run_name: wistful-mink-296
+run_uuid: 11a97aed091f4e1ca1236dcf3680eacd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067189800
+status: 3
+tags: []
+user_id: ibrahim-lahlou

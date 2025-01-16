@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8a30f273dadb4349be72b9980408c477/artifacts
+end_time: 1737067173800
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8a30f273dadb4349be72b9980408c477
+run_name: languid-shad-679
+run_uuid: 8a30f273dadb4349be72b9980408c477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067173779
+status: 3
+tags: []
+user_id: ibrahim-lahlou

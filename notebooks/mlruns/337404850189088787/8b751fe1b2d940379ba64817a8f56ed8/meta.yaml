@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8b751fe1b2d940379ba64817a8f56ed8/artifacts
+end_time: 1737067187657
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8b751fe1b2d940379ba64817a8f56ed8
+run_name: intrigued-snipe-940
+run_uuid: 8b751fe1b2d940379ba64817a8f56ed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067187635
+status: 3
+tags: []
+user_id: ibrahim-lahlou

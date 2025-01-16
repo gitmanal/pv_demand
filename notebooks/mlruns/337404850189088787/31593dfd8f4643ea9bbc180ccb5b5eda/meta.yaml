@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/31593dfd8f4643ea9bbc180ccb5b5eda/artifacts
+end_time: 1737067162028
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 31593dfd8f4643ea9bbc180ccb5b5eda
+run_name: powerful-cow-615
+run_uuid: 31593dfd8f4643ea9bbc180ccb5b5eda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162017
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/401787cb5eb143d39a7a0f0a10e705c3/artifacts
+end_time: 1737067192676
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 401787cb5eb143d39a7a0f0a10e705c3
+run_name: orderly-mink-757
+run_uuid: 401787cb5eb143d39a7a0f0a10e705c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067192656
+status: 3
+tags: []
+user_id: ibrahim-lahlou

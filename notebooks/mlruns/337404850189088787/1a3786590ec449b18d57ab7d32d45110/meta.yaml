@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/1a3786590ec449b18d57ab7d32d45110/artifacts
+end_time: 1737067165825
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 1a3786590ec449b18d57ab7d32d45110
+run_name: gaudy-finch-729
+run_uuid: 1a3786590ec449b18d57ab7d32d45110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165812
+status: 3
+tags: []
+user_id: ibrahim-lahlou

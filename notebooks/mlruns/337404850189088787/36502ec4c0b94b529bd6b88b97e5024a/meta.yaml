@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/36502ec4c0b94b529bd6b88b97e5024a/artifacts
+end_time: 1737067216861
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 36502ec4c0b94b529bd6b88b97e5024a
+run_name: smiling-wolf-2
+run_uuid: 36502ec4c0b94b529bd6b88b97e5024a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067216836
+status: 3
+tags: []
+user_id: ibrahim-lahlou

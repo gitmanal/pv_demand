@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6b00b570b2b94abd99ffbb20b577a4d5/artifacts
+end_time: 1737067158831
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6b00b570b2b94abd99ffbb20b577a4d5
+run_name: likeable-moth-523
+run_uuid: 6b00b570b2b94abd99ffbb20b577a4d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158823
+status: 3
+tags: []
+user_id: ibrahim-lahlou

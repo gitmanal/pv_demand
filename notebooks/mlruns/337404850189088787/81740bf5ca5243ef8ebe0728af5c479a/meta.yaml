@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/81740bf5ca5243ef8ebe0728af5c479a/artifacts
+end_time: 1737067160670
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 81740bf5ca5243ef8ebe0728af5c479a
+run_name: kindly-panda-150
+run_uuid: 81740bf5ca5243ef8ebe0728af5c479a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067160660
+status: 3
+tags: []
+user_id: ibrahim-lahlou

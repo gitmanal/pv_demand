@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/45860089c6044db58c11ba0642767b1d/artifacts
+end_time: 1737067170840
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 45860089c6044db58c11ba0642767b1d
+run_name: delicate-kite-292
+run_uuid: 45860089c6044db58c11ba0642767b1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067170826
+status: 3
+tags: []
+user_id: ibrahim-lahlou

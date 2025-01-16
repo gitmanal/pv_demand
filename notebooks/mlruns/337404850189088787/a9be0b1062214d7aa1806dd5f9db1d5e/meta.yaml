@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a9be0b1062214d7aa1806dd5f9db1d5e/artifacts
+end_time: 1737067192398
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a9be0b1062214d7aa1806dd5f9db1d5e
+run_name: salty-slug-333
+run_uuid: a9be0b1062214d7aa1806dd5f9db1d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067192378
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/822e8c1093204f219d7fba81f5540191/artifacts
+end_time: 1737067162602
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 822e8c1093204f219d7fba81f5540191
+run_name: sneaky-mole-334
+run_uuid: 822e8c1093204f219d7fba81f5540191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162592
+status: 3
+tags: []
+user_id: ibrahim-lahlou

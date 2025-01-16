@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/00b2b7093dea4e4a91757312a1dce642/artifacts
+end_time: 1737067153002
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 00b2b7093dea4e4a91757312a1dce642
+run_name: casual-shrike-504
+run_uuid: 00b2b7093dea4e4a91757312a1dce642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152997
+status: 3
+tags: []
+user_id: ibrahim-lahlou

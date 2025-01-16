@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/82e2f0e7bde44798aa39be626974ff25/artifacts
+end_time: 1737067172714
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 82e2f0e7bde44798aa39be626974ff25
+run_name: bouncy-crow-977
+run_uuid: 82e2f0e7bde44798aa39be626974ff25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067172699
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/731c8062e5fc439bad6041cf906268cf/artifacts
+end_time: 1737067190871
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 731c8062e5fc439bad6041cf906268cf
+run_name: vaunted-toad-27
+run_uuid: 731c8062e5fc439bad6041cf906268cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067190850
+status: 3
+tags: []
+user_id: ibrahim-lahlou

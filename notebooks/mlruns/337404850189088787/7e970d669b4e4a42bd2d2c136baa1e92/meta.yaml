@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/7e970d669b4e4a42bd2d2c136baa1e92/artifacts
+end_time: 1737067212019
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 7e970d669b4e4a42bd2d2c136baa1e92
+run_name: learned-shad-286
+run_uuid: 7e970d669b4e4a42bd2d2c136baa1e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067211994
+status: 3
+tags: []
+user_id: ibrahim-lahlou

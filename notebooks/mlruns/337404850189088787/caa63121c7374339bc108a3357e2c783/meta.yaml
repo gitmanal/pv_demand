@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/caa63121c7374339bc108a3357e2c783/artifacts
+end_time: 1737067200856
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: caa63121c7374339bc108a3357e2c783
+run_name: unequaled-colt-84
+run_uuid: caa63121c7374339bc108a3357e2c783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067200833
+status: 3
+tags: []
+user_id: ibrahim-lahlou

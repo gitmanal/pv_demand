@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/33b774a2a4554438b0ea0d1647b3001c/artifacts
+end_time: 1737067193324
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 33b774a2a4554438b0ea0d1647b3001c
+run_name: agreeable-gnat-778
+run_uuid: 33b774a2a4554438b0ea0d1647b3001c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067193304
+status: 3
+tags: []
+user_id: ibrahim-lahlou

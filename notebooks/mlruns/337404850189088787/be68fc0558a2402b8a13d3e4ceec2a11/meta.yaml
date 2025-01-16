@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/be68fc0558a2402b8a13d3e4ceec2a11/artifacts
+end_time: 1737067181718
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: be68fc0558a2402b8a13d3e4ceec2a11
+run_name: honorable-croc-324
+run_uuid: be68fc0558a2402b8a13d3e4ceec2a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067181692
+status: 3
+tags: []
+user_id: ibrahim-lahlou

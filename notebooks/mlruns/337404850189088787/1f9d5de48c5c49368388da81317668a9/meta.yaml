@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/1f9d5de48c5c49368388da81317668a9/artifacts
+end_time: 1737067199736
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 1f9d5de48c5c49368388da81317668a9
+run_name: gaudy-shrew-586
+run_uuid: 1f9d5de48c5c49368388da81317668a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067199714
+status: 3
+tags: []
+user_id: ibrahim-lahlou

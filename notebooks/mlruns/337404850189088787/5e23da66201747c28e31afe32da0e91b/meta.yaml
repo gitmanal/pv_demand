@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/5e23da66201747c28e31afe32da0e91b/artifacts
+end_time: 1737067167775
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 5e23da66201747c28e31afe32da0e91b
+run_name: puzzled-shoat-725
+run_uuid: 5e23da66201747c28e31afe32da0e91b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067167761
+status: 3
+tags: []
+user_id: ibrahim-lahlou

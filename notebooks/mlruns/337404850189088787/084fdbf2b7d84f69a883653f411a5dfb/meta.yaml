@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/084fdbf2b7d84f69a883653f411a5dfb/artifacts
+end_time: 1737067220381
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 084fdbf2b7d84f69a883653f411a5dfb
+run_name: debonair-mouse-333
+run_uuid: 084fdbf2b7d84f69a883653f411a5dfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067220354
+status: 3
+tags: []
+user_id: ibrahim-lahlou

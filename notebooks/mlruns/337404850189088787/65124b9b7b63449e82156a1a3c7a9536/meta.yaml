@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/65124b9b7b63449e82156a1a3c7a9536/artifacts
+end_time: 1737067167213
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 65124b9b7b63449e82156a1a3c7a9536
+run_name: calm-fox-62
+run_uuid: 65124b9b7b63449e82156a1a3c7a9536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067167200
+status: 3
+tags: []
+user_id: ibrahim-lahlou

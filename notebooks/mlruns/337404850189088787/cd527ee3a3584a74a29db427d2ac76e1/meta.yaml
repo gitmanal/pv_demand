@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/cd527ee3a3584a74a29db427d2ac76e1/artifacts
+end_time: 1737067205868
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: cd527ee3a3584a74a29db427d2ac76e1
+run_name: tasteful-colt-332
+run_uuid: cd527ee3a3584a74a29db427d2ac76e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067205842
+status: 3
+tags: []
+user_id: ibrahim-lahlou

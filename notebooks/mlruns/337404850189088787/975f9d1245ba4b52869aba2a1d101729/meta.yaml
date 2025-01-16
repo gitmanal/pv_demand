@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/975f9d1245ba4b52869aba2a1d101729/artifacts
+end_time: 1737067202360
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 975f9d1245ba4b52869aba2a1d101729
+run_name: trusting-snake-105
+run_uuid: 975f9d1245ba4b52869aba2a1d101729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067202336
+status: 3
+tags: []
+user_id: ibrahim-lahlou

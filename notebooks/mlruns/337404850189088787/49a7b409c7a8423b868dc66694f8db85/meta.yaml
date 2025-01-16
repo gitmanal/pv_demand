@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/49a7b409c7a8423b868dc66694f8db85/artifacts
+end_time: 1737067208633
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 49a7b409c7a8423b868dc66694f8db85
+run_name: incongruous-foal-415
+run_uuid: 49a7b409c7a8423b868dc66694f8db85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067208608
+status: 3
+tags: []
+user_id: ibrahim-lahlou

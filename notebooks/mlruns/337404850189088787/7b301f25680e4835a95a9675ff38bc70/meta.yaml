@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/7b301f25680e4835a95a9675ff38bc70/artifacts
+end_time: 1737067214110
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 7b301f25680e4835a95a9675ff38bc70
+run_name: clean-doe-6
+run_uuid: 7b301f25680e4835a95a9675ff38bc70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067214083
+status: 3
+tags: []
+user_id: ibrahim-lahlou

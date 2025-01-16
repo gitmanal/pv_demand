@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/520ff8aa093945e0ad8f5fc75e7287a5/artifacts
+end_time: 1737067215125
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 520ff8aa093945e0ad8f5fc75e7287a5
+run_name: bedecked-stork-976
+run_uuid: 520ff8aa093945e0ad8f5fc75e7287a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067215101
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b462b3d1ff804e38aec3c5c72b23bd1a/artifacts
+end_time: 1737067153232
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b462b3d1ff804e38aec3c5c72b23bd1a
+run_name: trusting-deer-246
+run_uuid: b462b3d1ff804e38aec3c5c72b23bd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153227
+status: 3
+tags: []
+user_id: ibrahim-lahlou

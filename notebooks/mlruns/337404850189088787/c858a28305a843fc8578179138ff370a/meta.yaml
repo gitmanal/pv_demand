@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c858a28305a843fc8578179138ff370a/artifacts
+end_time: 1737067210073
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c858a28305a843fc8578179138ff370a
+run_name: agreeable-worm-522
+run_uuid: c858a28305a843fc8578179138ff370a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067210049
+status: 3
+tags: []
+user_id: ibrahim-lahlou

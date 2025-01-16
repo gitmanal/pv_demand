@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/d3f446a20d984a9bace888dfd3d5f2e4/artifacts
+end_time: 1737067177664
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: d3f446a20d984a9bace888dfd3d5f2e4
+run_name: sassy-wolf-951
+run_uuid: d3f446a20d984a9bace888dfd3d5f2e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067177648
+status: 3
+tags: []
+user_id: ibrahim-lahlou

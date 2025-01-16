@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e3d657a942b644e7a3ceff05a2e5854a/artifacts
+end_time: 1737067154199
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e3d657a942b644e7a3ceff05a2e5854a
+run_name: gregarious-whale-288
+run_uuid: e3d657a942b644e7a3ceff05a2e5854a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067154193
+status: 3
+tags: []
+user_id: ibrahim-lahlou

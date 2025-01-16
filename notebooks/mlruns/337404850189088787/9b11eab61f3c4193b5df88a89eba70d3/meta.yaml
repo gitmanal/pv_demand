@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9b11eab61f3c4193b5df88a89eba70d3/artifacts
+end_time: 1737067193488
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9b11eab61f3c4193b5df88a89eba70d3
+run_name: chill-newt-76
+run_uuid: 9b11eab61f3c4193b5df88a89eba70d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067193465
+status: 3
+tags: []
+user_id: ibrahim-lahlou

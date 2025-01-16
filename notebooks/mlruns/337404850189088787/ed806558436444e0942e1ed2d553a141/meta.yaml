@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ed806558436444e0942e1ed2d553a141/artifacts
+end_time: 1737067201325
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ed806558436444e0942e1ed2d553a141
+run_name: debonair-zebra-623
+run_uuid: ed806558436444e0942e1ed2d553a141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067201304
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2fa5be740b9a4a7b8d1f68d72aa1092a/artifacts
+end_time: 1737067185803
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2fa5be740b9a4a7b8d1f68d72aa1092a
+run_name: traveling-auk-250
+run_uuid: 2fa5be740b9a4a7b8d1f68d72aa1092a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067185783
+status: 3
+tags: []
+user_id: ibrahim-lahlou

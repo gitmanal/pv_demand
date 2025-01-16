@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/547398bcc99a42aa96d0a2144d545151/artifacts
+end_time: 1737067221342
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 547398bcc99a42aa96d0a2144d545151
+run_name: melodic-moth-42
+run_uuid: 547398bcc99a42aa96d0a2144d545151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067221315
+status: 3
+tags: []
+user_id: ibrahim-lahlou

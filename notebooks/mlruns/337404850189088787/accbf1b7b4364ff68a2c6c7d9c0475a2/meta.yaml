@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/accbf1b7b4364ff68a2c6c7d9c0475a2/artifacts
+end_time: 1737067171318
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: accbf1b7b4364ff68a2c6c7d9c0475a2
+run_name: casual-ox-271
+run_uuid: accbf1b7b4364ff68a2c6c7d9c0475a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067171303
+status: 3
+tags: []
+user_id: ibrahim-lahlou

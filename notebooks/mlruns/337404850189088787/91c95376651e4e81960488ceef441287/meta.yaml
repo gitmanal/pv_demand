@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/91c95376651e4e81960488ceef441287/artifacts
+end_time: 1737067182227
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 91c95376651e4e81960488ceef441287
+run_name: auspicious-fox-635
+run_uuid: 91c95376651e4e81960488ceef441287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067182200
+status: 3
+tags: []
+user_id: ibrahim-lahlou

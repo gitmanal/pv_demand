@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a34a0295b2224fe69d1506ce077569e0/artifacts
+end_time: 1737067156197
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a34a0295b2224fe69d1506ce077569e0
+run_name: mercurial-rat-792
+run_uuid: a34a0295b2224fe69d1506ce077569e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067156190
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/321198252647896748/60fe1670db6e424a85c172cd9b5d2735/artifacts
+end_time: 1737066666279
+entry_point_name: ''
+experiment_id: '321198252647896748'
+lifecycle_stage: active
+run_id: 60fe1670db6e424a85c172cd9b5d2735
+run_name: honorable-zebra-224
+run_uuid: 60fe1670db6e424a85c172cd9b5d2735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737066666275
+status: 4
+tags: []
+user_id: ibrahim-lahlou

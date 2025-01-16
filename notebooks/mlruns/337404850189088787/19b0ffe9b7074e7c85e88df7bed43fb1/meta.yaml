@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/19b0ffe9b7074e7c85e88df7bed43fb1/artifacts
+end_time: 1737067169212
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 19b0ffe9b7074e7c85e88df7bed43fb1
+run_name: upset-squirrel-512
+run_uuid: 19b0ffe9b7074e7c85e88df7bed43fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067169197
+status: 3
+tags: []
+user_id: ibrahim-lahlou

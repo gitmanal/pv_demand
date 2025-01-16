@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/18da161352ce4a3086c0e18482d6d211/artifacts
+end_time: 1737067171301
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 18da161352ce4a3086c0e18482d6d211
+run_name: ambitious-quail-524
+run_uuid: 18da161352ce4a3086c0e18482d6d211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067171286
+status: 3
+tags: []
+user_id: ibrahim-lahlou

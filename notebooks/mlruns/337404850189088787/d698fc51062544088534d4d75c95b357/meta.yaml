@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/d698fc51062544088534d4d75c95b357/artifacts
+end_time: 1737067158018
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: d698fc51062544088534d4d75c95b357
+run_name: unruly-robin-798
+run_uuid: d698fc51062544088534d4d75c95b357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158009
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/4c47d23cd67b464ba45bf6232a87f264/artifacts
+end_time: 1737067158811
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 4c47d23cd67b464ba45bf6232a87f264
+run_name: unruly-sow-766
+run_uuid: 4c47d23cd67b464ba45bf6232a87f264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158803
+status: 3
+tags: []
+user_id: ibrahim-lahlou

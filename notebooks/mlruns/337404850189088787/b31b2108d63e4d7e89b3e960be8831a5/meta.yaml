@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b31b2108d63e4d7e89b3e960be8831a5/artifacts
+end_time: 1737067160647
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b31b2108d63e4d7e89b3e960be8831a5
+run_name: placid-fox-588
+run_uuid: b31b2108d63e4d7e89b3e960be8831a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067160637
+status: 3
+tags: []
+user_id: ibrahim-lahlou

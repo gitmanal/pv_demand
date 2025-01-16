@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8a892448db2e4a3fb3ff3bb0ac6f4ba2/artifacts
+end_time: 1737067189101
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8a892448db2e4a3fb3ff3bb0ac6f4ba2
+run_name: skillful-pig-300
+run_uuid: 8a892448db2e4a3fb3ff3bb0ac6f4ba2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067189081
+status: 3
+tags: []
+user_id: ibrahim-lahlou

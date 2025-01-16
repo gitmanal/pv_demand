@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/417aeca1a045441cb9f908f7d49ad083/artifacts
+end_time: 1737067197932
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 417aeca1a045441cb9f908f7d49ad083
+run_name: capricious-quail-896
+run_uuid: 417aeca1a045441cb9f908f7d49ad083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067197909
+status: 3
+tags: []
+user_id: ibrahim-lahlou

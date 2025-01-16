@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/be15f0aa99fe42b88cd122ff1d6e0069/artifacts
+end_time: 1737067188723
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: be15f0aa99fe42b88cd122ff1d6e0069
+run_name: vaunted-mule-439
+run_uuid: be15f0aa99fe42b88cd122ff1d6e0069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067188702
+status: 3
+tags: []
+user_id: ibrahim-lahlou

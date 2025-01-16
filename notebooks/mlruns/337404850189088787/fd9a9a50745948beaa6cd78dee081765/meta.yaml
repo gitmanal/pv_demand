@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/fd9a9a50745948beaa6cd78dee081765/artifacts
+end_time: 1737067200082
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: fd9a9a50745948beaa6cd78dee081765
+run_name: merciful-asp-247
+run_uuid: fd9a9a50745948beaa6cd78dee081765
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067200061
+status: 3
+tags: []
+user_id: ibrahim-lahlou

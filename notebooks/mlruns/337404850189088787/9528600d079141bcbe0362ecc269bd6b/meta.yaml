@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9528600d079141bcbe0362ecc269bd6b/artifacts
+end_time: 1737067161654
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9528600d079141bcbe0362ecc269bd6b
+run_name: wistful-croc-128
+run_uuid: 9528600d079141bcbe0362ecc269bd6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067161643
+status: 3
+tags: []
+user_id: ibrahim-lahlou

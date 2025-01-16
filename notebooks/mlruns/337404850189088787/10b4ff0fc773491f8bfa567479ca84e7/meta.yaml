@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/10b4ff0fc773491f8bfa567479ca84e7/artifacts
+end_time: 1737067173891
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 10b4ff0fc773491f8bfa567479ca84e7
+run_name: mercurial-kite-645
+run_uuid: 10b4ff0fc773491f8bfa567479ca84e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067173874
+status: 3
+tags: []
+user_id: ibrahim-lahlou

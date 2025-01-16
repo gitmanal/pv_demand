@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6da488aa63e545889e1dabb71e11674c/artifacts
+end_time: 1737067158873
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6da488aa63e545889e1dabb71e11674c
+run_name: blushing-dolphin-498
+run_uuid: 6da488aa63e545889e1dabb71e11674c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158863
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a651ca630aa545ab9911ed451af4c31b/artifacts
+end_time: 1737067164816
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a651ca630aa545ab9911ed451af4c31b
+run_name: salty-hare-483
+run_uuid: a651ca630aa545ab9911ed451af4c31b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067164804
+status: 3
+tags: []
+user_id: ibrahim-lahlou

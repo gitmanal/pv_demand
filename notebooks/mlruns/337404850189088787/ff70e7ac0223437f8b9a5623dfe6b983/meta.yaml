@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ff70e7ac0223437f8b9a5623dfe6b983/artifacts
+end_time: 1737067162686
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ff70e7ac0223437f8b9a5623dfe6b983
+run_name: angry-perch-563
+run_uuid: ff70e7ac0223437f8b9a5623dfe6b983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162675
+status: 3
+tags: []
+user_id: ibrahim-lahlou

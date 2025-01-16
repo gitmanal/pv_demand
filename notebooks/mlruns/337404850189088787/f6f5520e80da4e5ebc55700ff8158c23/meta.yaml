@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/f6f5520e80da4e5ebc55700ff8158c23/artifacts
+end_time: 1737067216531
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: f6f5520e80da4e5ebc55700ff8158c23
+run_name: nosy-shrew-359
+run_uuid: f6f5520e80da4e5ebc55700ff8158c23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067216505
+status: 3
+tags: []
+user_id: ibrahim-lahlou

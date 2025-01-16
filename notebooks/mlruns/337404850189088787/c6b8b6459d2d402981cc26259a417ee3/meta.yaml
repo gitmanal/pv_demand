@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c6b8b6459d2d402981cc26259a417ee3/artifacts
+end_time: 1737067209168
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c6b8b6459d2d402981cc26259a417ee3
+run_name: inquisitive-hare-435
+run_uuid: c6b8b6459d2d402981cc26259a417ee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067209144
+status: 3
+tags: []
+user_id: ibrahim-lahlou

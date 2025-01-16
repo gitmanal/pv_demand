@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/95712423b02e407fb085fa0f5d8a39d3/artifacts
+end_time: 1737067214926
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 95712423b02e407fb085fa0f5d8a39d3
+run_name: debonair-wren-920
+run_uuid: 95712423b02e407fb085fa0f5d8a39d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067214901
+status: 3
+tags: []
+user_id: ibrahim-lahlou

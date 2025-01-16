@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/7f3bf0b415b6495fb65b3235bab3e13c/artifacts
+end_time: 1737067218755
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 7f3bf0b415b6495fb65b3235bab3e13c
+run_name: rebellious-skink-371
+run_uuid: 7f3bf0b415b6495fb65b3235bab3e13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067218728
+status: 3
+tags: []
+user_id: ibrahim-lahlou

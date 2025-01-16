@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e9e9dc377ad74f78b2e1b2540d0e7b8a/artifacts
+end_time: 1737067161152
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e9e9dc377ad74f78b2e1b2540d0e7b8a
+run_name: efficient-elk-599
+run_uuid: e9e9dc377ad74f78b2e1b2540d0e7b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067161141
+status: 3
+tags: []
+user_id: ibrahim-lahlou

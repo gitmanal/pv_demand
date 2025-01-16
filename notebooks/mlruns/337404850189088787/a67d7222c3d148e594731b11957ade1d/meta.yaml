@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a67d7222c3d148e594731b11957ade1d/artifacts
+end_time: 1737067173464
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a67d7222c3d148e594731b11957ade1d
+run_name: burly-slug-456
+run_uuid: a67d7222c3d148e594731b11957ade1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067173436
+status: 3
+tags: []
+user_id: ibrahim-lahlou

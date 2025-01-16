@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6ac9ea48d05e498a82729ce819f6d48d/artifacts
+end_time: 1737067213962
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6ac9ea48d05e498a82729ce819f6d48d
+run_name: polite-bass-850
+run_uuid: 6ac9ea48d05e498a82729ce819f6d48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067213935
+status: 3
+tags: []
+user_id: ibrahim-lahlou

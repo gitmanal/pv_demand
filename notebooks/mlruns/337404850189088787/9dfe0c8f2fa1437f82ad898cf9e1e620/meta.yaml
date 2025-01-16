@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9dfe0c8f2fa1437f82ad898cf9e1e620/artifacts
+end_time: 1737067191443
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9dfe0c8f2fa1437f82ad898cf9e1e620
+run_name: unequaled-loon-965
+run_uuid: 9dfe0c8f2fa1437f82ad898cf9e1e620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067191421
+status: 3
+tags: []
+user_id: ibrahim-lahlou

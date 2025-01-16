@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/7f2cf75b87714b659bbf6a7fc93f087c/artifacts
+end_time: 1737067181669
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 7f2cf75b87714b659bbf6a7fc93f087c
+run_name: resilient-jay-271
+run_uuid: 7f2cf75b87714b659bbf6a7fc93f087c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067181651
+status: 3
+tags: []
+user_id: ibrahim-lahlou

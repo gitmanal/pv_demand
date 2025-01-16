@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9109bdc102074f92a6840589e3be0fec/artifacts
+end_time: 1737067159013
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9109bdc102074f92a6840589e3be0fec
+run_name: colorful-crab-517
+run_uuid: 9109bdc102074f92a6840589e3be0fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067159004
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/74e77ce6cfe445f98da83890386bb23c/artifacts
+end_time: 1737067159874
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 74e77ce6cfe445f98da83890386bb23c
+run_name: agreeable-foal-957
+run_uuid: 74e77ce6cfe445f98da83890386bb23c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067159864
+status: 3
+tags: []
+user_id: ibrahim-lahlou

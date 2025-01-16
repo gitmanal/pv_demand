@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/1856f8c24090454e864bab306d9cf83c/artifacts
+end_time: 1737067197242
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 1856f8c24090454e864bab306d9cf83c
+run_name: fearless-cub-889
+run_uuid: 1856f8c24090454e864bab306d9cf83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067197221
+status: 3
+tags: []
+user_id: ibrahim-lahlou

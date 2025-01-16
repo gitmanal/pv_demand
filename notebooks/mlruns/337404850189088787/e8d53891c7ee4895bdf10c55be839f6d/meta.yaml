@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e8d53891c7ee4895bdf10c55be839f6d/artifacts
+end_time: 1737067203659
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e8d53891c7ee4895bdf10c55be839f6d
+run_name: chill-bee-922
+run_uuid: e8d53891c7ee4895bdf10c55be839f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067203634
+status: 3
+tags: []
+user_id: ibrahim-lahlou

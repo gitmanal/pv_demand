@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/d86173703a2441d0b5de0affb19e96ab/artifacts
+end_time: 1737067202283
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: d86173703a2441d0b5de0affb19e96ab
+run_name: powerful-hound-52
+run_uuid: d86173703a2441d0b5de0affb19e96ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067202261
+status: 3
+tags: []
+user_id: ibrahim-lahlou

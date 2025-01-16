@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a6c12b3df45e4833862418e1134d6a58/artifacts
+end_time: 1737067213020
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a6c12b3df45e4833862418e1134d6a58
+run_name: secretive-cod-791
+run_uuid: a6c12b3df45e4833862418e1134d6a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067212993
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/7aaa9191eddb46cdb0eac529ab3e4361/artifacts
+end_time: 1737067152973
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 7aaa9191eddb46cdb0eac529ab3e4361
+run_name: gentle-rat-349
+run_uuid: 7aaa9191eddb46cdb0eac529ab3e4361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152969
+status: 3
+tags: []
+user_id: ibrahim-lahlou

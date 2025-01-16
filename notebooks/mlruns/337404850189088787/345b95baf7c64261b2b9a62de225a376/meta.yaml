@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/345b95baf7c64261b2b9a62de225a376/artifacts
+end_time: 1737067165242
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 345b95baf7c64261b2b9a62de225a376
+run_name: efficient-vole-807
+run_uuid: 345b95baf7c64261b2b9a62de225a376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165230
+status: 3
+tags: []
+user_id: ibrahim-lahlou

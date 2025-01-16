@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/5b908f12fa0040f9bec35a61386ca91b/artifacts
+end_time: 1737067169306
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 5b908f12fa0040f9bec35a61386ca91b
+run_name: puzzled-steed-464
+run_uuid: 5b908f12fa0040f9bec35a61386ca91b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067169292
+status: 3
+tags: []
+user_id: ibrahim-lahlou

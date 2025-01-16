@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/513e4bd548b443c8a036feab81773c4c/artifacts
+end_time: 1737067183813
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 513e4bd548b443c8a036feab81773c4c
+run_name: adaptable-rook-388
+run_uuid: 513e4bd548b443c8a036feab81773c4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067183793
+status: 3
+tags: []
+user_id: ibrahim-lahlou

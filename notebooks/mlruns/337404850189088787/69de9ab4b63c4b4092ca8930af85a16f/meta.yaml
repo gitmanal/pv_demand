@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/69de9ab4b63c4b4092ca8930af85a16f/artifacts
+end_time: 1737067167973
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 69de9ab4b63c4b4092ca8930af85a16f
+run_name: omniscient-fowl-825
+run_uuid: 69de9ab4b63c4b4092ca8930af85a16f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067167960
+status: 3
+tags: []
+user_id: ibrahim-lahlou

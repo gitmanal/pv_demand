@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/310a49d659fd4fc4aa241c9ecc5c2ed8/artifacts
+end_time: 1737067198769
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 310a49d659fd4fc4aa241c9ecc5c2ed8
+run_name: magnificent-owl-225
+run_uuid: 310a49d659fd4fc4aa241c9ecc5c2ed8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067198745
+status: 3
+tags: []
+user_id: ibrahim-lahlou

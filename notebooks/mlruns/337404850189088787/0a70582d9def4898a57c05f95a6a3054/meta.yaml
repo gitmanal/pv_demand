@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/0a70582d9def4898a57c05f95a6a3054/artifacts
+end_time: 1737067195782
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 0a70582d9def4898a57c05f95a6a3054
+run_name: ambitious-jay-414
+run_uuid: 0a70582d9def4898a57c05f95a6a3054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067195760
+status: 3
+tags: []
+user_id: ibrahim-lahlou

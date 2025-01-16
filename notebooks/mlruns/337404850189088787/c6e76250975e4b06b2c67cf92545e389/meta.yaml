@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c6e76250975e4b06b2c67cf92545e389/artifacts
+end_time: 1737067153453
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c6e76250975e4b06b2c67cf92545e389
+run_name: delicate-rook-259
+run_uuid: c6e76250975e4b06b2c67cf92545e389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153448
+status: 3
+tags: []
+user_id: ibrahim-lahlou

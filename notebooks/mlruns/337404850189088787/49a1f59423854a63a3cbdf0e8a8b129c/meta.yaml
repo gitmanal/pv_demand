@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/49a1f59423854a63a3cbdf0e8a8b129c/artifacts
+end_time: 1737067167565
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 49a1f59423854a63a3cbdf0e8a8b129c
+run_name: tasteful-gnat-125
+run_uuid: 49a1f59423854a63a3cbdf0e8a8b129c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067167551
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b546ee28a6164b25bcd8987646bc0f99/artifacts
+end_time: 1737067193088
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b546ee28a6164b25bcd8987646bc0f99
+run_name: unique-vole-175
+run_uuid: b546ee28a6164b25bcd8987646bc0f99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067193065
+status: 3
+tags: []
+user_id: ibrahim-lahlou

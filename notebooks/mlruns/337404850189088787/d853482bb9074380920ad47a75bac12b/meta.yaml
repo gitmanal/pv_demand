@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/d853482bb9074380920ad47a75bac12b/artifacts
+end_time: 1737067181337
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: d853482bb9074380920ad47a75bac12b
+run_name: amusing-ant-687
+run_uuid: d853482bb9074380920ad47a75bac12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067181319
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a75dc5bcd5204dfdae625187184c49cd/artifacts
+end_time: 1737067221047
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a75dc5bcd5204dfdae625187184c49cd
+run_name: judicious-cat-503
+run_uuid: a75dc5bcd5204dfdae625187184c49cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067221019
+status: 3
+tags: []
+user_id: ibrahim-lahlou

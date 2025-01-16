@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/f0dd791b6bc54b98bc375fe4745ef7a8/artifacts
+end_time: 1737067156562
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: f0dd791b6bc54b98bc375fe4745ef7a8
+run_name: sneaky-fawn-731
+run_uuid: f0dd791b6bc54b98bc375fe4745ef7a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067156555
+status: 3
+tags: []
+user_id: ibrahim-lahlou

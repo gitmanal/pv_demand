@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6115c84fcbf64780b3bf7cd2a0bdaefa/artifacts
+end_time: 1737067163782
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6115c84fcbf64780b3bf7cd2a0bdaefa
+run_name: dashing-bear-959
+run_uuid: 6115c84fcbf64780b3bf7cd2a0bdaefa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067163771
+status: 3
+tags: []
+user_id: ibrahim-lahlou

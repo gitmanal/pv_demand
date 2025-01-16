@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/9a679a0f6cd9457fa62debc682afe4cb/artifacts
+end_time: 1737067165348
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 9a679a0f6cd9457fa62debc682afe4cb
+run_name: spiffy-crane-580
+run_uuid: 9a679a0f6cd9457fa62debc682afe4cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165335
+status: 3
+tags: []
+user_id: ibrahim-lahlou

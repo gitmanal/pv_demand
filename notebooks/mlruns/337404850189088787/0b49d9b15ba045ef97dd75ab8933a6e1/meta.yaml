@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/0b49d9b15ba045ef97dd75ab8933a6e1/artifacts
+end_time: 1737067183833
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 0b49d9b15ba045ef97dd75ab8933a6e1
+run_name: exultant-cub-576
+run_uuid: 0b49d9b15ba045ef97dd75ab8933a6e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067183815
+status: 3
+tags: []
+user_id: ibrahim-lahlou

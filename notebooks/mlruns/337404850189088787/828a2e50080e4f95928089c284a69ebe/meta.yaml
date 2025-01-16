@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/828a2e50080e4f95928089c284a69ebe/artifacts
+end_time: 1737067199150
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 828a2e50080e4f95928089c284a69ebe
+run_name: amusing-shark-203
+run_uuid: 828a2e50080e4f95928089c284a69ebe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067199127
+status: 3
+tags: []
+user_id: ibrahim-lahlou

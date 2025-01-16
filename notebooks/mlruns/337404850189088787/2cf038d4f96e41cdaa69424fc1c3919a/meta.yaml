@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2cf038d4f96e41cdaa69424fc1c3919a/artifacts
+end_time: 1737067166716
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2cf038d4f96e41cdaa69424fc1c3919a
+run_name: dazzling-sponge-76
+run_uuid: 2cf038d4f96e41cdaa69424fc1c3919a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067166704
+status: 3
+tags: []
+user_id: ibrahim-lahlou

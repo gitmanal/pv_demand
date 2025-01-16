@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/30f36939299a4a669f878290d35da657/artifacts
+end_time: 1737067163979
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 30f36939299a4a669f878290d35da657
+run_name: mercurial-shrimp-416
+run_uuid: 30f36939299a4a669f878290d35da657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067163967
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/19abb53b5f954bf9ae7175b6e3f3170f/artifacts
+end_time: 1737067152168
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 19abb53b5f954bf9ae7175b6e3f3170f
+run_name: loud-goose-393
+run_uuid: 19abb53b5f954bf9ae7175b6e3f3170f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152164
+status: 3
+tags: []
+user_id: ibrahim-lahlou

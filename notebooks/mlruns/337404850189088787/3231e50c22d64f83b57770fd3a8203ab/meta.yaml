@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/3231e50c22d64f83b57770fd3a8203ab/artifacts
+end_time: 1737067180344
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 3231e50c22d64f83b57770fd3a8203ab
+run_name: wise-boar-182
+run_uuid: 3231e50c22d64f83b57770fd3a8203ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067180319
+status: 3
+tags: []
+user_id: ibrahim-lahlou

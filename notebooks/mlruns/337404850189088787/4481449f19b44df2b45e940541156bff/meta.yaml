@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/4481449f19b44df2b45e940541156bff/artifacts
+end_time: 1737067158706
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 4481449f19b44df2b45e940541156bff
+run_name: rumbling-dove-595
+run_uuid: 4481449f19b44df2b45e940541156bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158697
+status: 3
+tags: []
+user_id: ibrahim-lahlou

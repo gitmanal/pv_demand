@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8b4bd9c1e43b49a4b85b753284ab382c/artifacts
+end_time: 1737067153512
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8b4bd9c1e43b49a4b85b753284ab382c
+run_name: amusing-skunk-194
+run_uuid: 8b4bd9c1e43b49a4b85b753284ab382c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153506
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a70f650613374227ba7baa528c74b40e/artifacts
+end_time: 1737067159987
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a70f650613374227ba7baa528c74b40e
+run_name: clean-croc-729
+run_uuid: a70f650613374227ba7baa528c74b40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067159978
+status: 3
+tags: []
+user_id: ibrahim-lahlou

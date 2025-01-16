@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c976360f286445978b9a8fe29bd7afcf/artifacts
+end_time: 1737067174234
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c976360f286445978b9a8fe29bd7afcf
+run_name: silent-lamb-632
+run_uuid: c976360f286445978b9a8fe29bd7afcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067174219
+status: 3
+tags: []
+user_id: ibrahim-lahlou

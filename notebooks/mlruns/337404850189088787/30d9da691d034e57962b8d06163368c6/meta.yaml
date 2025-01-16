@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/30d9da691d034e57962b8d06163368c6/artifacts
+end_time: 1737067170383
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 30d9da691d034e57962b8d06163368c6
+run_name: silent-gull-150
+run_uuid: 30d9da691d034e57962b8d06163368c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067170368
+status: 3
+tags: []
+user_id: ibrahim-lahlou

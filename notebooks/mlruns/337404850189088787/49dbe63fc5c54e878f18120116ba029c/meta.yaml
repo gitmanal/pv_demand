@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/49dbe63fc5c54e878f18120116ba029c/artifacts
+end_time: 1737067172591
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 49dbe63fc5c54e878f18120116ba029c
+run_name: delicate-tern-19
+run_uuid: 49dbe63fc5c54e878f18120116ba029c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067172576
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/3c37b063f53f4833ac240f44bcef66e3/artifacts
+end_time: 1737067155858
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 3c37b063f53f4833ac240f44bcef66e3
+run_name: intelligent-cow-45
+run_uuid: 3c37b063f53f4833ac240f44bcef66e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067155849
+status: 3
+tags: []
+user_id: ibrahim-lahlou

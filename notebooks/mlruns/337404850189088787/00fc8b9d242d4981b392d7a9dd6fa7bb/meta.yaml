@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/00fc8b9d242d4981b392d7a9dd6fa7bb/artifacts
+end_time: 1737067169648
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 00fc8b9d242d4981b392d7a9dd6fa7bb
+run_name: clean-shoat-609
+run_uuid: 00fc8b9d242d4981b392d7a9dd6fa7bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067169634
+status: 3
+tags: []
+user_id: ibrahim-lahlou

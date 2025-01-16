@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/85f4c5fa7c464b9d8d7a389f1e8073be/artifacts
+end_time: 1737067189488
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 85f4c5fa7c464b9d8d7a389f1e8073be
+run_name: popular-squid-962
+run_uuid: 85f4c5fa7c464b9d8d7a389f1e8073be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067189467
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6c44df5b2f6d40b291ef466423b90237/artifacts
+end_time: 1737067154964
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6c44df5b2f6d40b291ef466423b90237
+run_name: hilarious-ray-869
+run_uuid: 6c44df5b2f6d40b291ef466423b90237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067154957
+status: 3
+tags: []
+user_id: ibrahim-lahlou

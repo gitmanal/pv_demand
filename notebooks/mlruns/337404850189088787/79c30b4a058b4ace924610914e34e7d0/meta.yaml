@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/79c30b4a058b4ace924610914e34e7d0/artifacts
+end_time: 1737067190337
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 79c30b4a058b4ace924610914e34e7d0
+run_name: nimble-turtle-596
+run_uuid: 79c30b4a058b4ace924610914e34e7d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067190317
+status: 3
+tags: []
+user_id: ibrahim-lahlou

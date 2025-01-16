@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ebde21f73a904968a19bb69b96c62117/artifacts
+end_time: 1737067162490
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ebde21f73a904968a19bb69b96c62117
+run_name: gregarious-robin-482
+run_uuid: ebde21f73a904968a19bb69b96c62117
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162479
+status: 3
+tags: []
+user_id: ibrahim-lahlou

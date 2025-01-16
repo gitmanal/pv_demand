@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b3aac3166d9a499c97e1b6b6485bc410/artifacts
+end_time: 1737067195485
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b3aac3166d9a499c97e1b6b6485bc410
+run_name: colorful-owl-975
+run_uuid: b3aac3166d9a499c97e1b6b6485bc410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067195462
+status: 3
+tags: []
+user_id: ibrahim-lahlou

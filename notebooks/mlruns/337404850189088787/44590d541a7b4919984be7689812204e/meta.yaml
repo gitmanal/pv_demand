@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/44590d541a7b4919984be7689812204e/artifacts
+end_time: 1737067162353
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 44590d541a7b4919984be7689812204e
+run_name: classy-fawn-226
+run_uuid: 44590d541a7b4919984be7689812204e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162343
+status: 3
+tags: []
+user_id: ibrahim-lahlou

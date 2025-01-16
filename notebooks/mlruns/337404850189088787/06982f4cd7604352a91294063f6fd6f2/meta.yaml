@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/06982f4cd7604352a91294063f6fd6f2/artifacts
+end_time: 1737067183584
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 06982f4cd7604352a91294063f6fd6f2
+run_name: bald-slug-591
+run_uuid: 06982f4cd7604352a91294063f6fd6f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067183566
+status: 3
+tags: []
+user_id: ibrahim-lahlou

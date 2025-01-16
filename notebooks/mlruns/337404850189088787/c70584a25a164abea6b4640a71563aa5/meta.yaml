@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c70584a25a164abea6b4640a71563aa5/artifacts
+end_time: 1737067191613
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c70584a25a164abea6b4640a71563aa5
+run_name: grandiose-gnu-727
+run_uuid: c70584a25a164abea6b4640a71563aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067191593
+status: 3
+tags: []
+user_id: ibrahim-lahlou

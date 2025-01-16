@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2d9d8a7807ca444eb1bf3ac37291cdd8/artifacts
+end_time: 1737067197907
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2d9d8a7807ca444eb1bf3ac37291cdd8
+run_name: treasured-snipe-210
+run_uuid: 2d9d8a7807ca444eb1bf3ac37291cdd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067197886
+status: 3
+tags: []
+user_id: ibrahim-lahlou

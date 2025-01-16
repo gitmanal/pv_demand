@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/84923f0ccd0845a5a78d17d44445a301/artifacts
+end_time: 1737067212286
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 84923f0ccd0845a5a78d17d44445a301
+run_name: resilient-seal-149
+run_uuid: 84923f0ccd0845a5a78d17d44445a301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067212262
+status: 3
+tags: []
+user_id: ibrahim-lahlou

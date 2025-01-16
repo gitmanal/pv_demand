@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/fd3d2b16f458470b95b65b65d8c51ca4/artifacts
+end_time: 1737067155067
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: fd3d2b16f458470b95b65b65d8c51ca4
+run_name: resilient-asp-654
+run_uuid: fd3d2b16f458470b95b65b65d8c51ca4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067155061
+status: 3
+tags: []
+user_id: ibrahim-lahlou

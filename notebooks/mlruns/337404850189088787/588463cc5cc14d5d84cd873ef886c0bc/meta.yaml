@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/588463cc5cc14d5d84cd873ef886c0bc/artifacts
+end_time: 1737067171834
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 588463cc5cc14d5d84cd873ef886c0bc
+run_name: stylish-gnat-140
+run_uuid: 588463cc5cc14d5d84cd873ef886c0bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067171819
+status: 3
+tags: []
+user_id: ibrahim-lahlou

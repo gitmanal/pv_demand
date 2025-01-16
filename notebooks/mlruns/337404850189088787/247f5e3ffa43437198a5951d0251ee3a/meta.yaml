@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/247f5e3ffa43437198a5951d0251ee3a/artifacts
+end_time: 1737067184577
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 247f5e3ffa43437198a5951d0251ee3a
+run_name: abundant-bug-869
+run_uuid: 247f5e3ffa43437198a5951d0251ee3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067184558
+status: 3
+tags: []
+user_id: ibrahim-lahlou

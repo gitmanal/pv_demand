@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/5171b24f161a49cbaa7feacfe34a5f61/artifacts
+end_time: 1737067218230
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 5171b24f161a49cbaa7feacfe34a5f61
+run_name: persistent-eel-530
+run_uuid: 5171b24f161a49cbaa7feacfe34a5f61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067218202
+status: 3
+tags: []
+user_id: ibrahim-lahlou

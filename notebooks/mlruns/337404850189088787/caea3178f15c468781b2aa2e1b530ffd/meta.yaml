@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/caea3178f15c468781b2aa2e1b530ffd/artifacts
+end_time: 1737067164582
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: caea3178f15c468781b2aa2e1b530ffd
+run_name: beautiful-donkey-326
+run_uuid: caea3178f15c468781b2aa2e1b530ffd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067164571
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8d7ab82256ab431dba380d96a7766af3/artifacts
+end_time: 1737067162478
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8d7ab82256ab431dba380d96a7766af3
+run_name: unique-pug-315
+run_uuid: 8d7ab82256ab431dba380d96a7766af3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162462
+status: 3
+tags: []
+user_id: ibrahim-lahlou

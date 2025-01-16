@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/cd3373ef80fa4556985ec5f448658335/artifacts
+end_time: 1737067153683
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: cd3373ef80fa4556985ec5f448658335
+run_name: mercurial-shad-144
+run_uuid: cd3373ef80fa4556985ec5f448658335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153677
+status: 3
+tags: []
+user_id: ibrahim-lahlou

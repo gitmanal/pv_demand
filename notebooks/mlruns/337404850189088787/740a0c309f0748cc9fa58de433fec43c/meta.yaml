@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/740a0c309f0748cc9fa58de433fec43c/artifacts
+end_time: 1737067182177
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 740a0c309f0748cc9fa58de433fec43c
+run_name: clean-crab-157
+run_uuid: 740a0c309f0748cc9fa58de433fec43c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067182160
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/763360438bd74bd394982599f28342fd/artifacts
+end_time: 1737067197313
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 763360438bd74bd394982599f28342fd
+run_name: classy-newt-640
+run_uuid: 763360438bd74bd394982599f28342fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067197291
+status: 3
+tags: []
+user_id: ibrahim-lahlou

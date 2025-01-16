@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/28da360c4418414fb435ffaf3b903e65/artifacts
+end_time: 1737067212260
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 28da360c4418414fb435ffaf3b903e65
+run_name: delicate-eel-852
+run_uuid: 28da360c4418414fb435ffaf3b903e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067212236
+status: 3
+tags: []
+user_id: ibrahim-lahlou

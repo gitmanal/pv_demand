@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/eb69e67d5800488e9aac06c760184dca/artifacts
+end_time: 1737067152820
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: eb69e67d5800488e9aac06c760184dca
+run_name: nosy-mouse-338
+run_uuid: eb69e67d5800488e9aac06c760184dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152816
+status: 3
+tags: []
+user_id: ibrahim-lahlou

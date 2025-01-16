@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/91878a790b0c43359f7d7b7cb8679649/artifacts
+end_time: 1737067160846
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 91878a790b0c43359f7d7b7cb8679649
+run_name: sedate-roo-529
+run_uuid: 91878a790b0c43359f7d7b7cb8679649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067160835
+status: 3
+tags: []
+user_id: ibrahim-lahlou

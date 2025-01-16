@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c10a07fc8aa1443dacef981bb6c21b3f/artifacts
+end_time: 1737067179448
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c10a07fc8aa1443dacef981bb6c21b3f
+run_name: capricious-lamb-454
+run_uuid: c10a07fc8aa1443dacef981bb6c21b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067179432
+status: 3
+tags: []
+user_id: ibrahim-lahlou

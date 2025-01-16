@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/d187965b084f412ba6c013a53fdefd1e/artifacts
+end_time: 1737067191322
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: d187965b084f412ba6c013a53fdefd1e
+run_name: useful-crab-911
+run_uuid: d187965b084f412ba6c013a53fdefd1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067191300
+status: 3
+tags: []
+user_id: ibrahim-lahlou

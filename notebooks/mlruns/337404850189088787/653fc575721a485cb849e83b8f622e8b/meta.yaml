@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/653fc575721a485cb849e83b8f622e8b/artifacts
+end_time: 1737067183379
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 653fc575721a485cb849e83b8f622e8b
+run_name: nebulous-gnu-615
+run_uuid: 653fc575721a485cb849e83b8f622e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067183361
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a29b16ebdc4441588f5fbe2f7d26f943/artifacts
+end_time: 1737067203088
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a29b16ebdc4441588f5fbe2f7d26f943
+run_name: gaudy-foal-284
+run_uuid: a29b16ebdc4441588f5fbe2f7d26f943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067203065
+status: 3
+tags: []
+user_id: ibrahim-lahlou

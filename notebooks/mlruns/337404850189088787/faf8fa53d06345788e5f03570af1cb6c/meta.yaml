@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/faf8fa53d06345788e5f03570af1cb6c/artifacts
+end_time: 1737067178631
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: faf8fa53d06345788e5f03570af1cb6c
+run_name: aged-ray-335
+run_uuid: faf8fa53d06345788e5f03570af1cb6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067178614
+status: 3
+tags: []
+user_id: ibrahim-lahlou

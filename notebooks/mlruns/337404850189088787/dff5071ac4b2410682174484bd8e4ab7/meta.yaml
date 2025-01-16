@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/dff5071ac4b2410682174484bd8e4ab7/artifacts
+end_time: 1737067154185
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: dff5071ac4b2410682174484bd8e4ab7
+run_name: painted-owl-744
+run_uuid: dff5071ac4b2410682174484bd8e4ab7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067154178
+status: 3
+tags: []
+user_id: ibrahim-lahlou

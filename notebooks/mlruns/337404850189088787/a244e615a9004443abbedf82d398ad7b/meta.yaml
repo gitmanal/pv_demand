@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a244e615a9004443abbedf82d398ad7b/artifacts
+end_time: 1737067159047
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a244e615a9004443abbedf82d398ad7b
+run_name: whimsical-hen-141
+run_uuid: a244e615a9004443abbedf82d398ad7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067159038
+status: 3
+tags: []
+user_id: ibrahim-lahlou

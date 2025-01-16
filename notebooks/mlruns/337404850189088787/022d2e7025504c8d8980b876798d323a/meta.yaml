@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/022d2e7025504c8d8980b876798d323a/artifacts
+end_time: 1737067154981
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 022d2e7025504c8d8980b876798d323a
+run_name: whimsical-newt-681
+run_uuid: 022d2e7025504c8d8980b876798d323a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067154974
+status: 3
+tags: []
+user_id: ibrahim-lahlou

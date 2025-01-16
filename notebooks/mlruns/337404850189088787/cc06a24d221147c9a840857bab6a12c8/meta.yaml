@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/cc06a24d221147c9a840857bab6a12c8/artifacts
+end_time: 1737067220987
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: cc06a24d221147c9a840857bab6a12c8
+run_name: abrasive-fawn-12
+run_uuid: cc06a24d221147c9a840857bab6a12c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067220961
+status: 3
+tags: []
+user_id: ibrahim-lahlou

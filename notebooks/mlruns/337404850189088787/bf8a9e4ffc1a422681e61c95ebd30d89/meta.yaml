@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/bf8a9e4ffc1a422681e61c95ebd30d89/artifacts
+end_time: 1737067168884
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: bf8a9e4ffc1a422681e61c95ebd30d89
+run_name: melodic-gnat-400
+run_uuid: bf8a9e4ffc1a422681e61c95ebd30d89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067168871
+status: 3
+tags: []
+user_id: ibrahim-lahlou

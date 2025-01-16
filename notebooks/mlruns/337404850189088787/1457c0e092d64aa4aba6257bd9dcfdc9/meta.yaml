@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/1457c0e092d64aa4aba6257bd9dcfdc9/artifacts
+end_time: 1737067158619
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 1457c0e092d64aa4aba6257bd9dcfdc9
+run_name: bold-stoat-382
+run_uuid: 1457c0e092d64aa4aba6257bd9dcfdc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067158603
+status: 3
+tags: []
+user_id: ibrahim-lahlou

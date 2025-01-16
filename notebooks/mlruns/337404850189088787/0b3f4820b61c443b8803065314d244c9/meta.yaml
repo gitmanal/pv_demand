@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/0b3f4820b61c443b8803065314d244c9/artifacts
+end_time: 1737067211877
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 0b3f4820b61c443b8803065314d244c9
+run_name: kindly-whale-13
+run_uuid: 0b3f4820b61c443b8803065314d244c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067211851
+status: 3
+tags: []
+user_id: ibrahim-lahlou

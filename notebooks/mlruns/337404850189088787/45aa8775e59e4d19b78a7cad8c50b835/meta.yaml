@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/45aa8775e59e4d19b78a7cad8c50b835/artifacts
+end_time: 1737067188787
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 45aa8775e59e4d19b78a7cad8c50b835
+run_name: able-roo-62
+run_uuid: 45aa8775e59e4d19b78a7cad8c50b835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067188768
+status: 3
+tags: []
+user_id: ibrahim-lahlou

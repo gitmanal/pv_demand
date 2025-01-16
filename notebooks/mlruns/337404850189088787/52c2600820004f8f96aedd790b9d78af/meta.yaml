@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/52c2600820004f8f96aedd790b9d78af/artifacts
+end_time: 1737067152674
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 52c2600820004f8f96aedd790b9d78af
+run_name: indecisive-ape-152
+run_uuid: 52c2600820004f8f96aedd790b9d78af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152670
+status: 3
+tags: []
+user_id: ibrahim-lahlou

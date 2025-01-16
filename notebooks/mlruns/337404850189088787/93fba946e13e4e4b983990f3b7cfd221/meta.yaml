@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/93fba946e13e4e4b983990f3b7cfd221/artifacts
+end_time: 1737067168899
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 93fba946e13e4e4b983990f3b7cfd221
+run_name: capricious-goose-86
+run_uuid: 93fba946e13e4e4b983990f3b7cfd221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067168886
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/53daa4ff58684f38977f15d601fe22dd/artifacts
+end_time: 1737067162590
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 53daa4ff58684f38977f15d601fe22dd
+run_name: abundant-snail-826
+run_uuid: 53daa4ff58684f38977f15d601fe22dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162579
+status: 3
+tags: []
+user_id: ibrahim-lahlou

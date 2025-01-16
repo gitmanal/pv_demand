@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/eb8ee21220b14a69be2f9fb38f7ad239/artifacts
+end_time: 1737067220671
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: eb8ee21220b14a69be2f9fb38f7ad239
+run_name: glamorous-skink-673
+run_uuid: eb8ee21220b14a69be2f9fb38f7ad239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067220645
+status: 3
+tags: []
+user_id: ibrahim-lahlou

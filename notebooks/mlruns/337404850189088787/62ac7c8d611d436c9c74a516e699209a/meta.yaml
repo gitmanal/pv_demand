@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/62ac7c8d611d436c9c74a516e699209a/artifacts
+end_time: 1737067153460
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 62ac7c8d611d436c9c74a516e699209a
+run_name: amusing-moose-573
+run_uuid: 62ac7c8d611d436c9c74a516e699209a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153455
+status: 3
+tags: []
+user_id: ibrahim-lahlou

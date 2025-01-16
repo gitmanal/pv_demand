@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/518ef3d1910f4fcf9ed46ca19b70a7ad/artifacts
+end_time: 1737067160955
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 518ef3d1910f4fcf9ed46ca19b70a7ad
+run_name: receptive-robin-491
+run_uuid: 518ef3d1910f4fcf9ed46ca19b70a7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067160945
+status: 3
+tags: []
+user_id: ibrahim-lahlou

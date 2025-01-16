@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/8292cbcb6e2c4a8fb30f7cf93eb987a7/artifacts
+end_time: 1737067181190
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 8292cbcb6e2c4a8fb30f7cf93eb987a7
+run_name: magnificent-crab-367
+run_uuid: 8292cbcb6e2c4a8fb30f7cf93eb987a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067181172
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ddbc0a32be264ddc9f0b538625587ebd/artifacts
+end_time: 1737067204938
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ddbc0a32be264ddc9f0b538625587ebd
+run_name: resilient-eel-491
+run_uuid: ddbc0a32be264ddc9f0b538625587ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067204914
+status: 3
+tags: []
+user_id: ibrahim-lahlou

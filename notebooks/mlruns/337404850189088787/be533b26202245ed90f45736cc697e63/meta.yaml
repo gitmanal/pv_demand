@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/be533b26202245ed90f45736cc697e63/artifacts
+end_time: 1737067162374
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: be533b26202245ed90f45736cc697e63
+run_name: skittish-stork-657
+run_uuid: be533b26202245ed90f45736cc697e63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067162355
+status: 3
+tags: []
+user_id: ibrahim-lahlou

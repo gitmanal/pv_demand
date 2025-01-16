@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/eb84e6f716a94515bcba8b59f3761481/artifacts
+end_time: 1737067165091
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: eb84e6f716a94515bcba8b59f3761481
+run_name: thoughtful-skunk-618
+run_uuid: eb84e6f716a94515bcba8b59f3761481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165079
+status: 3
+tags: []
+user_id: ibrahim-lahlou

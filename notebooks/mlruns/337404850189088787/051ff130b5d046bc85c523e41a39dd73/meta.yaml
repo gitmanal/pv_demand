@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/051ff130b5d046bc85c523e41a39dd73/artifacts
+end_time: 1737067153943
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 051ff130b5d046bc85c523e41a39dd73
+run_name: ambitious-turtle-230
+run_uuid: 051ff130b5d046bc85c523e41a39dd73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067153937
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/5b4f45160a1345e79b356ccb63fb9eea/artifacts
+end_time: 1737067199685
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 5b4f45160a1345e79b356ccb63fb9eea
+run_name: casual-dolphin-734
+run_uuid: 5b4f45160a1345e79b356ccb63fb9eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067199659
+status: 3
+tags: []
+user_id: ibrahim-lahlou

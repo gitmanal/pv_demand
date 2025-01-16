@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e3b30850fbb145c9b050213d9315e241/artifacts
+end_time: 1737067171473
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e3b30850fbb145c9b050213d9315e241
+run_name: powerful-quail-65
+run_uuid: e3b30850fbb145c9b050213d9315e241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067171458
+status: 3
+tags: []
+user_id: ibrahim-lahlou

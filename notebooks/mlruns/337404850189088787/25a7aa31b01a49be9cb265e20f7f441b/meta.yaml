@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/25a7aa31b01a49be9cb265e20f7f441b/artifacts
+end_time: 1737067198406
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 25a7aa31b01a49be9cb265e20f7f441b
+run_name: abundant-shoat-605
+run_uuid: 25a7aa31b01a49be9cb265e20f7f441b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067198384
+status: 3
+tags: []
+user_id: ibrahim-lahlou

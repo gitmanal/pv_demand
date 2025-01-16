@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b8c723823b8f488d894186af089fbb61/artifacts
+end_time: 1737067163885
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b8c723823b8f488d894186af089fbb61
+run_name: bemused-elk-650
+run_uuid: b8c723823b8f488d894186af089fbb61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067163873
+status: 3
+tags: []
+user_id: ibrahim-lahlou

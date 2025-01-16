@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/ebcfb7363b3d408498ce4288c3fb734d/artifacts
+end_time: 1737067163596
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: ebcfb7363b3d408498ce4288c3fb734d
+run_name: silent-smelt-701
+run_uuid: ebcfb7363b3d408498ce4288c3fb734d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067163584
+status: 3
+tags: []
+user_id: ibrahim-lahlou

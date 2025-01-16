@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e0fa05a3bb2a4150955917fe8ee4f956/artifacts
+end_time: 1737067206491
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e0fa05a3bb2a4150955917fe8ee4f956
+run_name: thoughtful-ant-234
+run_uuid: e0fa05a3bb2a4150955917fe8ee4f956
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067206466
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/bee96c9a88694cca86ad9b179cb62128/artifacts
+end_time: 1737067177722
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: bee96c9a88694cca86ad9b179cb62128
+run_name: luminous-stoat-533
+run_uuid: bee96c9a88694cca86ad9b179cb62128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067177705
+status: 3
+tags: []
+user_id: ibrahim-lahlou

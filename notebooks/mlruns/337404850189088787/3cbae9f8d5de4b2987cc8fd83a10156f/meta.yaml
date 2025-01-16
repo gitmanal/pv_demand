@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/3cbae9f8d5de4b2987cc8fd83a10156f/artifacts
+end_time: 1737067178612
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 3cbae9f8d5de4b2987cc8fd83a10156f
+run_name: big-midge-422
+run_uuid: 3cbae9f8d5de4b2987cc8fd83a10156f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067178596
+status: 3
+tags: []
+user_id: ibrahim-lahlou

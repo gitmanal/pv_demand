@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/c8ca6e8019844f9892766dee9429036e/artifacts
+end_time: 1737067194063
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: c8ca6e8019844f9892766dee9429036e
+run_name: merciful-bug-877
+run_uuid: c8ca6e8019844f9892766dee9429036e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067194041
+status: 3
+tags: []
+user_id: ibrahim-lahlou

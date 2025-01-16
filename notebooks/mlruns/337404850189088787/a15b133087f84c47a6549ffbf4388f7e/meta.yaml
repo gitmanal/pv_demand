@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/a15b133087f84c47a6549ffbf4388f7e/artifacts
+end_time: 1737067197265
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: a15b133087f84c47a6549ffbf4388f7e
+run_name: polite-worm-18
+run_uuid: a15b133087f84c47a6549ffbf4388f7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067197244
+status: 3
+tags: []
+user_id: ibrahim-lahlou

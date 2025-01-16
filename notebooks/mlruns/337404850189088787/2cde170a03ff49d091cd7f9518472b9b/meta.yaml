@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2cde170a03ff49d091cd7f9518472b9b/artifacts
+end_time: 1737067195338
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2cde170a03ff49d091cd7f9518472b9b
+run_name: bittersweet-mare-112
+run_uuid: 2cde170a03ff49d091cd7f9518472b9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067195317
+status: 3
+tags: []
+user_id: ibrahim-lahlou

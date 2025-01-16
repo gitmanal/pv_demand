@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/36a17e8b02444c1daac38f2053a2f65b/artifacts
+end_time: 1737067156504
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 36a17e8b02444c1daac38f2053a2f65b
+run_name: tasteful-gull-495
+run_uuid: 36a17e8b02444c1daac38f2053a2f65b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067156496
+status: 3
+tags: []
+user_id: ibrahim-lahlou

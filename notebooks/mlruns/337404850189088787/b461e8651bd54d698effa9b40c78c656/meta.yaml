@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b461e8651bd54d698effa9b40c78c656/artifacts
+end_time: 1737067152728
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b461e8651bd54d698effa9b40c78c656
+run_name: carefree-kite-556
+run_uuid: b461e8651bd54d698effa9b40c78c656
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067152722
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/5382bc1f94234c19b47a6b93569b6d52/artifacts
+end_time: 1737067165675
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 5382bc1f94234c19b47a6b93569b6d52
+run_name: polite-toad-264
+run_uuid: 5382bc1f94234c19b47a6b93569b6d52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067165661
+status: 3
+tags: []
+user_id: ibrahim-lahlou

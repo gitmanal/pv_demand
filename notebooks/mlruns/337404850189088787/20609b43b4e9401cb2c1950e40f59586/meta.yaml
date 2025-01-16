@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/20609b43b4e9401cb2c1950e40f59586/artifacts
+end_time: 1737067156460
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 20609b43b4e9401cb2c1950e40f59586
+run_name: selective-skink-576
+run_uuid: 20609b43b4e9401cb2c1950e40f59586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067156453
+status: 3
+tags: []
+user_id: ibrahim-lahlou

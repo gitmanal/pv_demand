@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/b09e64b415da477b8b2f778c92c99215/artifacts
+end_time: 1737067191394
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: b09e64b415da477b8b2f778c92c99215
+run_name: ambitious-stork-462
+run_uuid: b09e64b415da477b8b2f778c92c99215
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067191373
+status: 3
+tags: []
+user_id: ibrahim-lahlou

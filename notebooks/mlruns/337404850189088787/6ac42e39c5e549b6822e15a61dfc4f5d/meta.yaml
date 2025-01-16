@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6ac42e39c5e549b6822e15a61dfc4f5d/artifacts
+end_time: 1737067191514
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6ac42e39c5e549b6822e15a61dfc4f5d
+run_name: resilient-snail-935
+run_uuid: 6ac42e39c5e549b6822e15a61dfc4f5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067191493
+status: 3
+tags: []
+user_id: ibrahim-lahlou

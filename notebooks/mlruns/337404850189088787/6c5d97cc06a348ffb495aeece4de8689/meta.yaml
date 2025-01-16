@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/6c5d97cc06a348ffb495aeece4de8689/artifacts
+end_time: 1737067208799
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 6c5d97cc06a348ffb495aeece4de8689
+run_name: colorful-crow-87
+run_uuid: 6c5d97cc06a348ffb495aeece4de8689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067208775
+status: 3
+tags: []
+user_id: ibrahim-lahlou

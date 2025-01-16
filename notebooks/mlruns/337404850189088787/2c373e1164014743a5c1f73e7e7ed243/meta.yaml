@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/2c373e1164014743a5c1f73e7e7ed243/artifacts
+end_time: 1737067172450
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 2c373e1164014743a5c1f73e7e7ed243
+run_name: defiant-shrike-687
+run_uuid: 2c373e1164014743a5c1f73e7e7ed243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067172434
+status: 3
+tags: []
+user_id: ibrahim-lahlou

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/97abfe64676e40ccb9c528a6031f0bb5/artifacts
+end_time: 1737067195567
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: 97abfe64676e40ccb9c528a6031f0bb5
+run_name: rebellious-hen-982
+run_uuid: 97abfe64676e40ccb9c528a6031f0bb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067195546
+status: 3
+tags: []
+user_id: ibrahim-lahlou

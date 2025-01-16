@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/eb8041a0cd144246966ad69e1ea7a0ae/artifacts
+end_time: 1737067210975
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: eb8041a0cd144246966ad69e1ea7a0ae
+run_name: selective-crane-37
+run_uuid: eb8041a0cd144246966ad69e1ea7a0ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067210950
+status: 3
+tags: []
+user_id: ibrahim-lahlou

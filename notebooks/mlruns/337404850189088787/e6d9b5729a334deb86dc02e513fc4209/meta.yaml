@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/337404850189088787/e6d9b5729a334deb86dc02e513fc4209/artifacts
+end_time: 1737067216346
+entry_point_name: ''
+experiment_id: '337404850189088787'
+lifecycle_stage: active
+run_id: e6d9b5729a334deb86dc02e513fc4209
+run_name: righteous-shrew-902
+run_uuid: e6d9b5729a334deb86dc02e513fc4209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737067216321
+status: 3
+tags: []
+user_id: ibrahim-lahlou
