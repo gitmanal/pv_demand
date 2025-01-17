@@ -1,6 +1,0 @@
-artifact_location: file:///home/ibrahim-lahlou/Projects/ts_dev/pv_demand/pv_demand/notebooks/mlruns/321198252647896748
-creation_time: 1737066666246
-experiment_id: '321198252647896748'
-last_update_time: 1737066666246
-lifecycle_stage: active
-name: SARIMAX_Rolling_CV
