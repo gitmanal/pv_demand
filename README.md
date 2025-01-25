@@ -5,7 +5,7 @@ This project provides a template for time series regression using MLflow for exp
 ## Setup
 1. Run the setup script: `./setup.sh`
 2. Activate virtual environment: `source venv/bin/activate`
-3. Start MLflow UI: `mlflow ui`
+3. Start MLflow UI: `mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri sqlite:///mlflow.db --default-artifact-root ./mlruns`
 4. Access the UI at http://localhost:5000
 
 ## Project Structure
