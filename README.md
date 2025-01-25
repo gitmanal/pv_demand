@@ -1,4 +1,4 @@
-# MLflow Time Series Project
+# Studying and Predicting Energy demand on Photovoltaic Panels
 
 This project provides a template for time series regression using MLflow for experiment tracking.
 
